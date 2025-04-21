@@ -10,7 +10,9 @@
     src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" style="margin-bottom: 5px;"
   /></a> 
 </div>
-<br>
+
+---
+
 <div align="center">
   <a href="https://github.com/lleonardogr">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lleonardogr&layout=compact&langs_count=7&theme=dracula"/>
@@ -29,3 +31,24 @@
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 </div>
+
+---
+
+## 👋 Sobre mim
+
+Olá! Eu sou o **Leonardo Gasparini**, mas pode me chamar de Léo.  
+Professor, desenvolvedor .NET, pesquisador na área de complexidade computacional e criador de tutoriais com aquele toque didático que transforma até árvore binária em história de aventura.
+
+Meu repositório é meu caldeirão de experimentos: tem artigo acadêmico, app com API e até curso em markdown com 🧪 + 💻 + ❤️.
+ 
+🪄 Seja bem-vindo!
+
+---
+
+## 🧠 Projetos e Artigos
+
+| Tipo      | Título / Descrição                                                                                          | Link |
+|-----------|-------------------------------------------------------------------------------------------------------------|------|
+| Projeto   | **Manadle** - Um jogo estilo "Wordle" usando cartas do Magic com a API do Scryfall e Next.js               | [🔗 manadle.vercel.app](https://manadle.vercel.app) |
+| Artigo    | **Optimizing for aggressive-style strategies in Flesh and Blood is NP-hard** - Estratégias aggro em FAB são NP-difíceis | [📄 arxiv.org/abs/2501.11683](https://arxiv.org/abs/2501.11683) |
+
