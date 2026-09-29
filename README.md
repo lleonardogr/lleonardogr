@@ -57,5 +57,5 @@ Meu repositório é meu caldeirão de experimentos: tem artigo acadêmico, app c
 
 | Tipo      | Título / Descrição                                                                                          | Link |
 |-----------|-------------------------------------------------------------------------------------------------------------|------|
-| Projeto   | -             | - |
+| Projeto   | Wordle of the Coast Um Wordle diário de criaturas lendárias de Magic: The Gathering, com dados e imagens vindos da API do Scryfall. | https://lleonardogr.github.io/wordle-of-the-coast/ |
 | Artigo    | **Optimizing for aggressive-style strategies in Flesh and Blood is NP-hard** - Estratégias aggro em FAB são NP-difíceis | [📄 arxiv.org/abs/2501.11683](https://arxiv.org/abs/2501.11683) |
