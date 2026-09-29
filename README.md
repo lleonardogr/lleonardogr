@@ -5,7 +5,7 @@
 ### Professor • Backend Developer • Pesquisador em Complexidade Computacional
 
 Desenvolvimento backend, ensino de Ciência da Computação e pesquisa em  
-**complexidade computacional, algoritmos e otimização combinatória**.
+**complexidade computacional, otimização combinatória e algoritmos aplicados a jogos**.
 
 <br>
 
@@ -26,125 +26,110 @@ Desenvolvimento backend, ensino de Ciência da Computação e pesquisa em
 
 ---
 
-## 👋 Sobre mim
+## Sobre mim
 
-Olá! Eu sou **Leonardo Gasparini**, professor, desenvolvedor backend e pesquisador em Ciência da Computação.
+Sou **professor, desenvolvedor backend e pesquisador em Ciência da Computação**.
 
-Minha atuação profissional é concentrada principalmente em desenvolvimento backend, APIs, arquitetura de aplicações e no ecossistema **.NET**, além de **Java**, bancos de dados relacionais e tecnologias web.
+Minha atuação profissional é concentrada principalmente no ecossistema **.NET**, desenvolvimento de APIs e arquitetura de aplicações, além de **Java**, bancos de dados relacionais e tecnologias para desenvolvimento web.
 
-Na pesquisa, meus principais interesses incluem:
+Na pesquisa, trabalho principalmente com:
 
 - complexidade computacional;
 - algoritmos e estruturas de dados;
 - otimização combinatória;
-- NP-dificuldade e algoritmos de aproximação;
-- complexidade computacional aplicada a jogos;
-- Trading Card Games como objetos de estudo algorítmico.
+- problemas NP-difíceis e algoritmos de aproximação;
+- complexidade computacional aplicada a jogos e Trading Card Games.
 
-Também utilizo este GitHub para compartilhar **projetos, experimentos, artigos, materiais de aula e tutoriais**.
+Também utilizo este GitHub como espaço para compartilhar **materiais de aula, experimentos, projetos, artigos e tutoriais**.
 
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 ### Linguagens
 
 <p>
-  <img alt="C#" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-  &nbsp;&nbsp;
-  <img alt="Java" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  &nbsp;&nbsp;
-  <img alt="JavaScript" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  &nbsp;&nbsp;
-  <img alt="HTML5" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  &nbsp;&nbsp;
-  <img alt="CSS3" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img alt="C#" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+  &nbsp;
+  <img alt="Java" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  &nbsp;
+  <img alt="JavaScript" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  &nbsp;
+  <img alt="HTML5" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  &nbsp;
+  <img alt="CSS3" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 </p>
 
 ### Frameworks e plataformas
 
 <p>
-  <img alt=".NET" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
-  &nbsp;&nbsp;
-  <img alt="Next.js" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+  <img alt=".NET" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
+  &nbsp;
+  <img alt="Next.js" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
 </p>
 
 ### Banco de dados
 
 <p>
-  <img alt="Microsoft SQL Server" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
+  <img alt="Microsoft SQL Server" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
 </p>
 
 ### Ferramentas
 
 <p>
-  <img alt="Git" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  &nbsp;&nbsp;
-  <img alt="Docker" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-  &nbsp;&nbsp;
-  <img alt="Visual Studio" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg" />
+  <img alt="Git" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  &nbsp;
+  <img alt="Docker" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+  &nbsp;
+  <img alt="Visual Studio" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg" />
 </p>
 
 ---
 
-## 🔬 Pesquisa
+## Pesquisa
 
-Tenho interesse em problemas na interseção entre **Teoria da Computação, Algoritmos, Otimização Combinatória e Jogos**.
+### Complexity of Trading Card Games
 
-Uma das minhas principais linhas de pesquisa investiga decisões computacionais em **Trading Card Games**, buscando compreender quais mecânicas originam problemas tratáveis, NP-difíceis ou difíceis de aproximar.
+Uma das minhas principais linhas de pesquisa investiga a **complexidade computacional de decisões em Trading Card Games**, utilizando técnicas de teoria da complexidade, otimização combinatória e reduções entre problemas.
 
-### Artigos
+#### Optimizing for aggressive-style strategies in Flesh and Blood is NP-hard
 
-- 📄 **Optimizing for aggressive-style strategies in Flesh and Blood is NP-hard**  
-  Estudo da otimização de estratégias agressivas de turno único em *Flesh and Blood*, relacionando o problema a técnicas clássicas de otimização combinatória e à Mochila 0-1.  
-  **Tópicos:** Computational Complexity · NP-hardness · Knapsack · Combinatorial Optimization · Trading Card Games  
-  → [Ler no arXiv](https://arxiv.org/abs/2501.11683)
+O trabalho modela a otimização de uma estratégia agressiva de turno único em **Flesh and Blood** como um problema de otimização combinatória e demonstra sua relação com o problema da **Mochila 0-1**.
 
----
+[![arXiv](https://img.shields.io/badge/arXiv-2501.11683-B31B1B?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2501.11683)
 
-## 🚀 Projetos
-
-- 🃏 **Manadle**  
-  Jogo inspirado em *Wordle* utilizando cartas de *Magic: The Gathering*, a API do **Scryfall** e **Next.js**.  
-  → [Acessar projeto](https://manadle.vercel.app)
-
-- 📚 **Materiais de ensino e exemplos**  
-  Repositórios utilizados como apoio em disciplinas de Ciência da Computação e desenvolvimento de software, envolvendo algoritmos, estruturas de dados, desenvolvimento backend, arquitetura e engenharia de software.
-
-- 💻 **Projetos backend**  
-  Exemplos e experimentos envolvendo **C#**, **.NET**, **Java**, APIs REST, bancos de dados e arquitetura de aplicações.
+**Tópicos:** `Computational Complexity` · `NP-hardness` · `Knapsack` · `Combinatorial Optimization` · `Trading Card Games`
 
 ---
 
-## 📚 Ensino
+## Projetos
 
-Parte dos meus projetos e repositórios é dedicada a materiais utilizados em aulas e estudos sobre:
+### Manadle
 
-- Algoritmos e Estruturas de Dados
-- Teoria dos Grafos
-- Desenvolvimento Backend
-- C# e .NET
-- Java
-- APIs REST
-- Arquitetura de Software
-- Git e Engenharia de Software
-- Complexidade Computacional
+Um jogo inspirado em **Wordle**, utilizando cartas de *Magic: The Gathering*, a API do **Scryfall** e **Next.js**.
+
+[![Website](https://img.shields.io/badge/Website-Manadle-000000?style=flat-square&logo=vercel&logoColor=white)](https://manadle.vercel.app)
+
+### Materiais e tutoriais
+
+Parte dos repositórios deste perfil é dedicada a exemplos, exercícios e materiais utilizados em aulas de:
+
+- algoritmos e estruturas de dados;
+- desenvolvimento backend;
+- .NET e Java;
+- arquitetura de software;
+- APIs;
+- Git e engenharia de software.
 
 ---
 
-## 📊 GitHub
+## GitHub
 
 <div align="center">
 
-<img height="165"
-  src="https://github-readme-stats.vercel.app/api?username=lleonardogr&show_icons=true&hide=stars&hide_rank=true&hide_border=true&theme=transparent&locale=pt-br"
-  alt="Estatísticas do GitHub"
-/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=lleonardogr&show_icons=true&hide_border=true&theme=transparent&locale=pt-br" alt="GitHub Stats"/>
 
-<img height="165"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lleonardogr&layout=compact&langs_count=6&hide_border=true&theme=transparent&locale=pt-br"
-  alt="Linguagens mais utilizadas"
-/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lleonardogr&layout=compact&hide_border=true&theme=transparent&locale=pt-br" alt="Linguagens mais utilizadas nos repositórios"/>
 
 </div>
 
@@ -154,6 +139,6 @@ Parte dos meus projetos e repositórios é dedicada a materiais utilizados em au
 
 ### Ensino · Desenvolvimento · Pesquisa
 
-**Transformando problemas interessantes em código, algoritmos e questões de pesquisa.**
+**Transformando problemas interessantes em código, algoritmos e perguntas de pesquisa.**
 
 </div>
