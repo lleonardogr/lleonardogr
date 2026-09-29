@@ -57,5 +57,5 @@ Meu repositório é meu caldeirão de experimentos: tem artigo acadêmico, app c
 
 | Tipo      | Título / Descrição                                                                                          | Link |
 |-----------|-------------------------------------------------------------------------------------------------------------|------|
-| Projeto   | **Manadle** - Um jogo estilo "Wordle" usando cartas do Magic com a API do Scryfall e Next.js               | [🔗 manadle.vercel.app](https://manadle.vercel.app) |
+| Projeto   | -             | - |
 | Artigo    | **Optimizing for aggressive-style strategies in Flesh and Blood is NP-hard** - Estratégias aggro em FAB são NP-difíceis | [📄 arxiv.org/abs/2501.11683](https://arxiv.org/abs/2501.11683) |
